@@ -1,0 +1,1 @@
+Buka index.html dengan Edge/Chrome. Tidak perlu internet atau server. Semua file dalam folder ini harus tetap bersama. Catatan disimpan di browser; ekspor JSON sebelum pindah perangkat. Rujukan online membutuhkan internet. Source workstation belum dibandingkan.

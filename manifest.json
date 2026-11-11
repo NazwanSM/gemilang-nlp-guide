@@ -1,0 +1,18 @@
+{
+  "version": "1.3.0",
+  "files": {
+    "app.js": "dc08b7b855dd882be01d33d54b8fa87899d5007e658ef7c5c79a46b9a432504d",
+    "BUKA_PANDUAN.txt": "1d35fc432a4b8e3144d6577bcbfc67c0999a05e8f7eb6a2a447e4ad83d72a25f",
+    "core.js": "9ce1f75ac1cfdad3b30f641e35839912530aa97e5f45ce119faf0d94c7dab153",
+    "data.js": "8b4c7dc0cd4bcad6d8e66d345cf94d2bf97c29c67aafa3774e35ed704b69b932",
+    "examples/run_checks.py": "f96d13e5e15813d87ced05972de13fcabd7bde7e18fc823281bc8e8089bfea37",
+    "index.html": "9fda3961fad8f1eae8c576f8d24a36397e96a63cdc7a36e7e1b2d030492c092b",
+    "licenses/marked.txt": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c",
+    "licenses/prismjs.txt": "2b947f0901a7ffcf08a89957da9783c0e9c6e72cb6ce8e959f501ab5409e4d2b",
+    "styles.css": "7fe0e85d991bb15b0bb840806719ae9c16b847df182d4f65eb3b664c9c0b4844",
+    "theme.js": "5c1a1807fcc33d7e7d4025900545f32376a997701b2376b73a187fd108978a9e",
+    "vendor/marked.js": "d7931d1cd7bf727dd756c871637edcc9e0f8538003b927368400ec1ee47a9dd9",
+    "vendor/prism.js": "b801451d9b4cbf1857715a97ecae442e26c111bab6e19fee0e83dfda70cc2900",
+    "vendor/python.js": "ed4385685bcf2d4935c8dbbab4bde16603da1329e092d2bf36c3dadd67e9a85c"
+  }
+}
